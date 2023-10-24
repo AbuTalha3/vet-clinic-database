@@ -102,9 +102,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[DATABASE]**
+- **[TABLE]**
+- **[QUERIES USED To Fetch DATA]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,17 +208,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## 👥 Author <a name="author"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abu Talha**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbuTalha3)
+- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-najeeb-akhun-393b8b292/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
