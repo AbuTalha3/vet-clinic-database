@@ -1,43 +1,5 @@
-# curriculum-databases-projects-template
+# Vet_Clinic_Database
 
-> This template should be used for database-related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -67,9 +29,10 @@ After you're finished please remove all the comments and instructions!
 
 > It is a project that stores the data of a vet clinic where the animals are brought for treatment. There is a database about the animals including their age, name and traits etc.
 
-**[your_project__name]** is a...
+**[Vet_Clinic_Database]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+- PostgreSQL 
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -102,9 +65,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[DATABASE]**
+- **[TABLE]**
+- **[QUERIES]** // USED To Fetch DATA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +77,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](<replace-with-your-deployment-URL>)
+- [Live Demo Link](<live-demo will be added later>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +116,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: PostgreSQL
 
 <!--
 Example command:
@@ -166,7 +129,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, use PostgreSQL and psql:
 
 <!--
 Example command:
@@ -178,15 +141,15 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following query commands:
 
-<!--
+
 Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
 ```
---->
+ SELECT * FROM animals;
+```
+
 
 ### Deployment
 
@@ -208,17 +171,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+## 👥 Author <a name="author"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Abu Talha**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AbuTalha3)
+- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-najeeb-akhun-393b8b292/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,7 +187,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
+- [ ] **[Tables_with_more_details]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
@@ -270,13 +229,8 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Ask Me on my socials]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
