@@ -8,14 +8,3 @@ CREATE TABLE animals (
     neutered boolean,
     weight_kg integer
 );
-
-
-                                     Table "public.animals"
-     Column      |          Type          | Collation | Nullable |           Default
------------------+------------------------+-----------+----------+------------------------------
- id              | integer                |           | not null | generated always as identity
- name            | character varying(100) |           |          |
- date_of_birth   | date                   |           |          |
- escape_attempts | numeric(10,2)          |           |          |
- neutered        | boolean                |           |          |
- weight_kg       | integer                |           |          |
