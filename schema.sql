@@ -7,5 +7,5 @@
     escape_attempts decimal(10,2),
     neutered boolean,
     weight_kg integer,
-    species unspecified
+    species varchar(100) DEFAULT 'unspecified'
 );
