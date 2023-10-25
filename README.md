@@ -92,27 +92,19 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- PostgreSQL
+- VS Code
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  (git@github.com:AbuTalha3/vet-clinic-database.git)
+
+
 
 ### Install
 
@@ -151,18 +143,6 @@ Example command:
 ```
 
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -188,8 +168,10 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Tables_with_more_details]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Table linking]**
+- [ ] **[More pets]**
+- [ ] **[More query options]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +181,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AbuTalha3/vet-clinic-database/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +191,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, give it a ⭐️!.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,7 +201,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Microverse team for making this possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
