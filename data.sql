@@ -1,8 +1,4 @@
-/* Populate database with sample data. */
-
-INSERT INTO animals (name) VALUES ('Luna');
-INSERT INTO animals (name) VALUES ('Daisy');
-INSERT INTO animals (name) VALUES ('Charlie');
+/* Populate database with given data. */
 
 INSERT INTO animals (name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES ('Augmon', '2020/3/2', 0, 'true', 10.23);
 INSERT INTO animals (name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES ('Gabumon', '2018/11/15', 2, 'true', 8.0);

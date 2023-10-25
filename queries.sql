@@ -1,9 +1,5 @@
-/*Queries that provide answers to the questions from all projects.*/
-
-vet_clinic_database=# <--Example -->
- SELECT * FROM animals;
-
 <--Project Queries -->
+
  SELECT * FROM animals WHERE name LIKE '%mon';
  SELECT * FROM animals WHERE EXTRACT( year FROM date_of_birth) BETWEEN 2016 AND 2019;
  SELECT * FROM animals WHERE neutered = TRUE AND escape_attempts < 3;
