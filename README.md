@@ -32,25 +32,10 @@
 **[Vet_Clinic_Database]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-- PostgreSQL 
+- PostgreSQL
+- VS Code 
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -77,15 +62,13 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](<live-demo will be added later>)
+- [Live Demo Link] live-demo will be added later
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -101,7 +84,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 
-  cd my-folder
+  cd vet_clinic_database
   (git@github.com:AbuTalha3/vet-clinic-database.git)
 
 
@@ -121,15 +104,11 @@ Example command:
 
 ### Usage
 
-To run the project, use PostgreSQL and psql:
+To run the project, 
+- Use PostgreSQL and 
+- psql:
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
@@ -199,8 +178,6 @@ If you like this project, give it a ⭐️!.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank the Microverse team for making this possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -209,9 +186,7 @@ I would like to thank the Microverse team for making this possible.
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Ask Me on my socials]**
+- **[Any further qureies, Ask Me on my socials]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -220,8 +195,6 @@ I would like to thank the Microverse team for making this possible.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENSE) li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
