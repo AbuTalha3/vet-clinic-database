@@ -8,3 +8,23 @@
     neutered boolean,
     weight_kg integer
 );
+
+CREATE TABLE vets (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    age INT,
+    date_of_graduation DATE
+);
+
+CREATE TABLE specializations (
+    id serial PRIMARY KEY,
+    vet_id integer REFERENCES vets(id),
+    species_id integer REFERENCES species(id)
+);
+
+CREATE TABLE visits (
+    id SERIAL PRIMARY KEY,
+    animal_id integer REFERENCES animals(id),
+    vet_id integer REFERENCES vets(id),
+    date_of_visit DATE
+);
