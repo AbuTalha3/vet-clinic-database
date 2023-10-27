@@ -46,10 +46,3 @@ FOREIGN KEY (species_id) REFERENCES species(id);
 ALTER TABLE animals
 ADD CONSTRAINT fk_owner_id
 FOREIGN KEY (owner_id) REFERENCES owners(id);
-
-INSERT INTO species (name)
-VALUES ('Pokemon');
-
-INSERT INTO species (name)
-VALUES ('Digimon');
-
