@@ -24,8 +24,32 @@ CREATE TABLE species (
     name VARCHAR(100)
 );
 
+
+CREATE TABLE owners (
+    id  INT PRIMARY KEY,
+    full_name VARCHAR(100),
+    age INT
+ );
+
+CREATE TABLE species (
+     id SERIAL PRIMARY KEY,
+     name VARCHAR(100)
+ );
+
+ALTER TABLE animals
+DROP COLUMN species;
+
+ALTER TABLE animals
+ADD CONSTRAINT fk_species_id
+FOREIGN KEY (species_id) REFERENCES species(id);
+
+ALTER TABLE animals
+ADD CONSTRAINT fk_owner_id
+FOREIGN KEY (owner_id) REFERENCES owners(id);
+
 INSERT INTO species (name)
 VALUES ('Pokemon');
 
 INSERT INTO species (name)
 VALUES ('Digimon');
+
