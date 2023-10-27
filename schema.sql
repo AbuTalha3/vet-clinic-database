@@ -24,7 +24,7 @@ CREATE TABLE species (
     name VARCHAR(100)
 );
 
- INSERT INTO species (name)
+INSERT INTO species (name)
 VALUES ('Pokemon');
 
 INSERT INTO species (name)
