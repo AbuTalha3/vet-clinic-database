@@ -6,7 +6,8 @@
     date_of_birth date,
     escape_attempts decimal(10,2),
     neutered boolean,
-    weight_kg integer
+    weight_kg integer,
+    species varchar(100) DEFAULT 'unspecified'
 );
 
 ALTER TABLE animals
