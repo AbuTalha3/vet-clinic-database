@@ -136,7 +136,7 @@ Example command:
 
 - GitHub: [@githubhandle](https://github.com/AbuTalha3)
 - Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-najeeb-akhun-393b8b292/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-najeeb-akhun-8203b252/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
