@@ -148,7 +148,7 @@ Example command:
 
 - [ ] **[Tables_with_more_details]**
 - [ ] **[Table linking]**
-- [ ] **[More pets]**
+- [ ] **[More pets and vets]**
 - [ ] **[More query options]**
 
 
