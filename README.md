@@ -62,7 +62,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link] Not aval yet as live-demo will be added later
+- [Live Demo Link] Not available yet as live demo will be added later
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
