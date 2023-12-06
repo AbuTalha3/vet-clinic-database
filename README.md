@@ -106,7 +106,7 @@ Example command:
 
 To run the project, 
 - Use PostgreSQL and 
-- pSql:
+- pSql:PostgreSQL
 
 
 
