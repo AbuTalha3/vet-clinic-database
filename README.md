@@ -91,7 +91,7 @@ Clone this repository to your desired folder:
 
 ### Install
 
-You may Install this project with PostgreSQL
+You may Install this project with the PostgreSQL
 
 <!--
 Example command:
