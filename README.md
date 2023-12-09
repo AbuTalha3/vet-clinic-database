@@ -33,7 +33,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 - PostgreSQL
-- VS Code 
+- Visual Studio Code 
 
 ### Tech Stack <a name="tech-stack"></a>
 
