@@ -76,7 +76,7 @@ To get a local copy up and running, you may follow these steps.
 
 In order to run this project you need:
 - `PostgreSQL`
-- VS Code
+- `VS Code`
 
 
 ### Setup
