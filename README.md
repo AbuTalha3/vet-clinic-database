@@ -105,7 +105,7 @@ Example command:
 ### Usage
 
 To run the project, 
-- Use PostgreSQL and 
+- Use `PostgreSQL` and 
 - pSql: PostgreSQL shell?
 
 
