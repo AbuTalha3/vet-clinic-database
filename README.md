@@ -150,6 +150,7 @@ Example command:
 - [ ] **[Table linking]**
 - [ ] **[More pets and vets]**
 - [ ] **[More query options]**
+- [ ] **[Visits linking]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
