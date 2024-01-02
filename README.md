@@ -97,7 +97,7 @@ You may Install this project with the PostgreSQL
 Example command:
 
 ```sh
-  cd my-project
+  `cd my-project`
   gem install
 ```
 --->
