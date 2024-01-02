@@ -98,7 +98,7 @@ Example command:
 
 ```sh
   `cd my-project`
-  gem install
+  `gem install`
 ```
 --->
 
