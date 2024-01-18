@@ -146,8 +146,8 @@ Example command:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Tables_with_more_details]**
-- [ ] **[Table linking]**
+- [x] **[Tables_with_more_details]**
+- [x] **[Table linking]**
 - [ ] **[More pets and vets]**
 - [ ] **[More query options]**
 - [ ] **[Visits linking]**
