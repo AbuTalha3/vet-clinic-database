@@ -27,7 +27,7 @@
 
 # 📖 [Vet_Clinic_Database] <a name="about-project"></a>
 
-> It is a project that `stores the data of a Vet clinic` where the `animals` are brought for `treatment`. There is a database about the animals including their age, name and traits, etc. There are a number of tables including owners of the animals, types of pets, and specialties of vets. In this repository, I will use a `relational database` to create the initial data structure for a vet clinic. I will create a table to `store` animals' information, insert some data into it, and query it.
+> It is a project that `**stores the data of a Vet clinic**` where the `animals` are brought for `treatment`. There is a database about the animals including their age, name and traits, etc. There are a number of tables including owners of the animals, types of pets, and specialties of vets. In this repository, I will use a `relational database` to create the initial data structure for a vet clinic. I will create a table to `store` animals' information, insert some data into it, and query it.
 
 **[Vet_Clinic_Database]** is a...
 
