@@ -75,7 +75,7 @@ To get a local copy up and running, you may follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-- `PostgreSQL`
+- `PostgreSQL` (you can download PostgreSQL [here](https://www.postgresql.org/download/) )
 - `VS Code`
 
 
