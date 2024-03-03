@@ -32,7 +32,7 @@
 **[Vet_Clinic_Database]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-- `PostgreSQL`
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - `Visual Studio Code` 
 
 ### Tech Stack <a name="tech-stack"></a>
