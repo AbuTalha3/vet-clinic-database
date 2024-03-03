@@ -75,7 +75,7 @@ To get a local copy up and running, you may follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-- `PostgreSQL` (If you don't have `PostgreSQL` on your machine you can download PostgreSQL [here](https://www.postgresql.org/download/) )
+- `PostgreSQL` ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 - `VS Code`
 
 
